@@ -130,7 +130,6 @@ GitHub repository: alx-system_engineering-devops
 Directory: 0x02-shell_redirections
 File: 4-lastlines
 
-
 5. I'd prefer the first ones actually
 mandatory
 Display the first 10 lines of /etc/passwd
@@ -696,3 +695,5 @@ Repo:
 GitHub repository: alx-system_engineering-devops
 Directory: 0x02-shell_redirections
 File: 22-users_and_homes
+
+This my readme file
